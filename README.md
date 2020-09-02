@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Testeur Maniak StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9942346)](https://stackoverflow.com/users/9942346/testeur-maniak) [![TesteurManiak's github stats](https://github-readme-stats.vercel.app/api?username=TesteurManiak&theme=tokyonight)]()
+[![Testeur Maniak StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9942346&theme=dark)](https://stackoverflow.com/users/9942346/testeur-maniak) [![TesteurManiak's github stats](https://github-readme-stats.vercel.app/api?username=TesteurManiak&theme=tokyonight)]()
 
 <p align="center">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
