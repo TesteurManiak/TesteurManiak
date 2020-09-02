@@ -20,7 +20,7 @@
  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
 
-# Blog posts
+### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Testeur Maniak for How to store an Encrypted type in flutter sharedprefrence](https://stackoverflow.com/questions/63592608/how-to-store-an-encrypted-type-in-flutter-sharedprefrence/63593654#63593654)
