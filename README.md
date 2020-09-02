@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
  <a href="https://github.com/AVS1508">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=TesteurManiak&theme=tokyonight" />
   <img height="250em" src="https://github-readme-stackoverflow.vercel.app/?userID=9942346&theme=dark" />
