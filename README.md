@@ -18,4 +18,9 @@
 # Blog posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Testeur Maniak for How to store an Encrypted type in flutter sharedprefrence](https://stackoverflow.com/questions/63592608/how-to-store-an-encrypted-type-in-flutter-sharedprefrence/63593654#63593654)
+- [Answer by Testeur Maniak for How to open phone gallery or camera or any other medium available using ImagePicker in Flutter.?](https://stackoverflow.com/questions/63526163/how-to-open-phone-gallery-or-camera-or-any-other-medium-available-using-imagepic/63527150#63527150)
+- [Answer by Testeur Maniak for NoSuchMethodError: The method 'play' was called on null](https://stackoverflow.com/questions/63486796/nosuchmethoderror-the-method-play-was-called-on-null/63487179#63487179)
+- [Answer by Testeur Maniak for How to change decoration of a Tab based on its index?](https://stackoverflow.com/questions/63470231/how-to-change-decoration-of-a-tab-based-on-its-index/63470954#63470954)
+- [Answer by Testeur Maniak for How to implement a horizontal scroll which is controlled by bottom minus bar in flutter](https://stackoverflow.com/questions/63410782/how-to-implement-a-horizontal-scroll-which-is-controlled-by-bottom-minus-bar-in/63416383#63416383)
 <!-- STACKOVERFLOW:END -->
