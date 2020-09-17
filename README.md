@@ -23,9 +23,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Testeur Maniak for How to build a TabView using Flutter GetX](https://stackoverflow.com/questions/63924491/how-to-build-a-tabview-using-flutter-getx/63934575#63934575)
 - [Answer by Testeur Maniak for Flutter Forms: Get the list of fields in error](https://stackoverflow.com/questions/63833619/flutter-forms-get-the-list-of-fields-in-error/63836043#63836043)
 - [Answer by Testeur Maniak for How to handle dropdownbox for listview flutter](https://stackoverflow.com/questions/63774520/how-to-handle-dropdownbox-for-listview-flutter/63775316#63775316)
 - [Answer by Testeur Maniak for Preview web url in Text/RichtText](https://stackoverflow.com/questions/63772376/preview-web-url-in-text-richttext/63773246#63773246)
 - [Answer by Testeur Maniak for A list of stacks with an text on top of an image](https://stackoverflow.com/questions/63767454/a-list-of-stacks-with-an-text-on-top-of-an-image/63768555#63768555)
-- [Answer by Testeur Maniak for Flutter: How to send a model from the API to other screen using flutter_local_notification](https://stackoverflow.com/questions/63709556/flutter-how-to-send-a-model-from-the-api-to-other-screen-using-flutter-local-no/63713392#63713392)
 <!-- STACKOVERFLOW:END -->
