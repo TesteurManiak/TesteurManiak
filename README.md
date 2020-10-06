@@ -27,9 +27,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Testeur Maniak for Detect DragEnd in CustomScrollView flutter?](https://stackoverflow.com/questions/64226169/detect-dragend-in-customscrollview-flutter/64226992#64226992)
 - [Flutter RangeSlider - labels always displayed above track bar](https://stackoverflow.com/questions/64102597/flutter-rangeslider-labels-always-displayed-above-track-bar)
 - [Answer by Testeur Maniak for How to save an object with a list as attribute in a SQL Database](https://stackoverflow.com/questions/64094163/how-to-save-an-object-with-a-list-as-attribute-in-a-sql-database/64097466#64097466)
 - [Answer by Testeur Maniak for Flutter layout (6 container in Columan )](https://stackoverflow.com/questions/63996701/flutter-layout-6-container-in-columan/64004928#64004928)
 - [Answer by Testeur Maniak for How to pass a list of widgets into a listview efficiently in flutter?](https://stackoverflow.com/questions/63937125/how-to-pass-a-list-of-widgets-into-a-listview-efficiently-in-flutter/63937884#63937884)
-- [Answer by Testeur Maniak for How to build a TabView using Flutter GetX](https://stackoverflow.com/questions/63924491/how-to-build-a-tabview-using-flutter-getx/63934575#63934575)
 <!-- STACKOVERFLOW:END -->
