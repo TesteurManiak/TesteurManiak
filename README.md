@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Testeur Maniak for Adding Sub Title to AppBar in Scaffold](https://stackoverflow.com/questions/64568563/adding-sub-title-to-appbar-in-scaffold/64568680#64568680)
-- [Answer by Testeur Maniak for Wait until app starts after onLaunch with firebase messaging and flutter](https://stackoverflow.com/questions/61872463/wait-until-app-starts-after-onlaunch-with-firebase-messaging-and-flutter/64546298#64546298)
-- [Answer by Testeur Maniak for How to parse ICalendar format in Dart?](https://stackoverflow.com/questions/57968936/how-to-parse-icalendar-format-in-dart/64544247#64544247)
+- [Answer by Guillaume Roux for How to position items in Appbar flutter](https://stackoverflow.com/questions/64569820/how-to-position-items-in-appbar-flutter/64571411#64571411)
+- [Answer by Guillaume Roux for Adding Sub Title to AppBar in Scaffold](https://stackoverflow.com/questions/64568563/adding-sub-title-to-appbar-in-scaffold/64568680#64568680)
+- [Answer by Guillaume Roux for Wait until app starts after onLaunch with firebase messaging and flutter](https://stackoverflow.com/questions/61872463/wait-until-app-starts-after-onlaunch-with-firebase-messaging-and-flutter/64546298#64546298)
+- [Answer by Guillaume Roux for How to parse ICalendar format in Dart?](https://stackoverflow.com/questions/57968936/how-to-parse-icalendar-format-in-dart/64544247#64544247)
 - [Flutter Web: FCM cannot register Service Worker](https://stackoverflow.com/questions/64335822/flutter-web-fcm-cannot-register-service-worker)
-- [Answer by Testeur Maniak for Detect DragEnd in CustomScrollView flutter?](https://stackoverflow.com/questions/64226169/detect-dragend-in-customscrollview-flutter/64226992#64226992)
 <!-- STACKOVERFLOW:END -->
