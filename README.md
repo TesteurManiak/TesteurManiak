@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for how to download https network URL images into app directory in flutter](https://stackoverflow.com/questions/64570877/how-to-download-https-network-url-images-into-app-directory-in-flutter/64573671#64573671)
+- [Answer by Guillaume Roux for Flutter FutureBuilder Does Not Wait When App Updates](https://stackoverflow.com/questions/64572709/flutter-futurebuilder-does-not-wait-when-app-updates/64573465#64573465)
 - [Answer by Guillaume Roux for How to position items in Appbar flutter](https://stackoverflow.com/questions/64569820/how-to-position-items-in-appbar-flutter/64571411#64571411)
 - [Answer by Guillaume Roux for Adding Sub Title to AppBar in Scaffold](https://stackoverflow.com/questions/64568563/adding-sub-title-to-appbar-in-scaffold/64568680#64568680)
 - [Answer by Guillaume Roux for Wait until app starts after onLaunch with firebase messaging and flutter](https://stackoverflow.com/questions/61872463/wait-until-app-starts-after-onlaunch-with-firebase-messaging-and-flutter/64546298#64546298)
-- [Answer by Guillaume Roux for How to parse ICalendar format in Dart?](https://stackoverflow.com/questions/57968936/how-to-parse-icalendar-format-in-dart/64544247#64544247)
-- [Flutter Web: FCM cannot register Service Worker](https://stackoverflow.com/questions/64335822/flutter-web-fcm-cannot-register-service-worker)
 <!-- STACKOVERFLOW:END -->
