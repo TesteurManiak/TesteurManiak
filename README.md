@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for How to convert image file to base64 String in flutter?](https://stackoverflow.com/questions/64588688/how-to-convert-image-file-to-base64-string-in-flutter/64589123#64589123)
 - [Answer by Guillaume Roux for Accessing a nested JSON file in Flutter](https://stackoverflow.com/questions/64575231/accessing-a-nested-json-file-in-flutter/64575433#64575433)
 - [Answer by Guillaume Roux for Flutter how can i show value of list in a list](https://stackoverflow.com/questions/64574634/flutter-how-can-i-show-value-of-list-in-a-list/64574763#64574763)
 - [Answer by Guillaume Roux for how to download https network URL images into app directory in flutter](https://stackoverflow.com/questions/64570877/how-to-download-https-network-url-images-into-app-directory-in-flutter/64573671#64573671)
 - [Answer by Guillaume Roux for Flutter FutureBuilder Does Not Wait When App Updates](https://stackoverflow.com/questions/64572709/flutter-futurebuilder-does-not-wait-when-app-updates/64573465#64573465)
-- [Answer by Guillaume Roux for How to position items in Appbar flutter](https://stackoverflow.com/questions/64569820/how-to-position-items-in-appbar-flutter/64571411#64571411)
 <!-- STACKOVERFLOW:END -->
