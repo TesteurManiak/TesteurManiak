@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Flutter nested http requests](https://stackoverflow.com/questions/65309539/flutter-nested-http-requests/65310176#65310176)
 - [Answer by Guillaume Roux for Can not write to a list that contains map](https://stackoverflow.com/questions/54549230/can-not-write-to-a-list-that-contains-map/65309148#65309148)
 - [Answer by Guillaume Roux for How can I do this thing?](https://stackoverflow.com/questions/65304021/how-can-i-do-this-thing/65306038#65306038)
 - [Answer by Guillaume Roux for Login problems after publishing mobile app](https://stackoverflow.com/questions/65302290/login-problems-after-publishing-mobile-app/65302338#65302338)
 - [Answer by Guillaume Roux for Is there a way to close a modal bottom sheet in flutter on device orientation change?](https://stackoverflow.com/questions/65185383/is-there-a-way-to-close-a-modal-bottom-sheet-in-flutter-on-device-orientation-ch/65186083#65186083)
-- [Answer by Guillaume Roux for Flutter; replace item in list](https://stackoverflow.com/questions/64977815/flutter-replace-item-in-list/65030682#65030682)
 <!-- STACKOVERFLOW:END -->
