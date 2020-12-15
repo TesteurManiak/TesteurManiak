@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for How can I do this thing?](https://stackoverflow.com/questions/65304021/how-can-i-do-this-thing/65306038#65306038)
 - [Answer by Guillaume Roux for Login problems after publishing mobile app](https://stackoverflow.com/questions/65302290/login-problems-after-publishing-mobile-app/65302338#65302338)
 - [Answer by Guillaume Roux for Is there a way to close a modal bottom sheet in flutter on device orientation change?](https://stackoverflow.com/questions/65185383/is-there-a-way-to-close-a-modal-bottom-sheet-in-flutter-on-device-orientation-ch/65186083#65186083)
 - [Answer by Guillaume Roux for Flutter; replace item in list](https://stackoverflow.com/questions/64977815/flutter-replace-item-in-list/65030682#65030682)
 - [Answer by Guillaume Roux for Store cache in Flutter](https://stackoverflow.com/questions/65019288/store-cache-in-flutter/65019749#65019749)
-- [Answer by Guillaume Roux for Can I set duration to fluttertoast?](https://stackoverflow.com/questions/64646870/can-i-set-duration-to-fluttertoast/64647038#64647038)
 <!-- STACKOVERFLOW:END -->
