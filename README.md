@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for AppBar reusable in different pages and route on different page effect](https://stackoverflow.com/questions/65568999/appbar-reusable-in-different-pages-and-route-on-different-page-effect/65576183#65576183)
 - [Answer by Guillaume Roux for How to get a context in a function?](https://stackoverflow.com/questions/65393305/how-to-get-a-context-in-a-function/65393438#65393438)
 - [Answer by Guillaume Roux for fix this flutter CHATVIEW issue. i can't seem to get past it for days](https://stackoverflow.com/questions/65334216/fix-this-flutter-chatview-issue-i-cant-seem-to-get-past-it-for-days/65338503#65338503)
 - [Answer by Guillaume Roux for Can not write to a list that contains map](https://stackoverflow.com/questions/54549230/can-not-write-to-a-list-that-contains-map/65309148#65309148)
 - [Answer by Guillaume Roux for Is there a way to close a modal bottom sheet in flutter on device orientation change?](https://stackoverflow.com/questions/65185383/is-there-a-way-to-close-a-modal-bottom-sheet-in-flutter-on-device-orientation-ch/65186083#65186083)
-- [Answer by Guillaume Roux for Flutter; replace item in list](https://stackoverflow.com/questions/64977815/flutter-replace-item-in-list/65030682#65030682)
 <!-- STACKOVERFLOW:END -->
