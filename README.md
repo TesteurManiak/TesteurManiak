@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Guillaume Roux for Flutter how to pass data in a function of model](https://stackoverflow.com/questions/65775083/flutter-how-to-pass-data-in-a-function-of-model/65775346#65775346)
 - [Answer by Guillaume Roux for Flutter ListView.builder() item click change UI data?](https://stackoverflow.com/questions/65772133/flutter-listview-builder-item-click-change-ui-data/65772464#65772464)
 - [Answer by Guillaume Roux for FutureBuilder always refresh](https://stackoverflow.com/questions/65716340/futurebuilder-always-refresh/65720278#65720278)
 - [Answer by Guillaume Roux for Command to run the app in a selected device](https://stackoverflow.com/questions/65637472/command-to-run-the-app-in-a-selected-device/65637591#65637591)
 - [Answer by Guillaume Roux for AppBar reusable in different pages and route on different page effect](https://stackoverflow.com/questions/65568999/appbar-reusable-in-different-pages-and-route-on-different-page-effect/65576183#65576183)
+- [Answer by Guillaume Roux for How to get a context in a function?](https://stackoverflow.com/questions/65393305/how-to-get-a-context-in-a-function/65393438#65393438)
 <!-- STACKOVERFLOW:END -->
