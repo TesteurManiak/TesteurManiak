@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Restrict change in value of valueNotifier.value](https://stackoverflow.com/questions/66123911/restrict-change-in-value-of-valuenotifier-value/66124063#66124063)
 - [Answer by Guillaume Roux for What to do when bluetooth is unauthorized?](https://stackoverflow.com/questions/66123267/what-to-do-when-bluetooth-is-unauthorized/66123935#66123935)
 - [Answer by Guillaume Roux for FlutterMap zooms into white screen](https://stackoverflow.com/questions/65833941/fluttermap-zooms-into-white-screen/65835799#65835799)
 - [Answer by Guillaume Roux for Flutter ListView.builder() item click change UI data?](https://stackoverflow.com/questions/65772133/flutter-listview-builder-item-click-change-ui-data/65772464#65772464)
 - [Answer by Guillaume Roux for FutureBuilder always refresh](https://stackoverflow.com/questions/65716340/futurebuilder-always-refresh/65720278#65720278)
-- [Answer by Guillaume Roux for Command to run the app in a selected device](https://stackoverflow.com/questions/65637472/command-to-run-the-app-in-a-selected-device/65637591#65637591)
 <!-- STACKOVERFLOW:END -->
