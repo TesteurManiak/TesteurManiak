@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Custom card or container with border, shape and three parts](https://stackoverflow.com/questions/66224893/custom-card-or-container-with-border-shape-and-three-parts/66225491#66225491)
 - [Answer by Guillaume Roux for Repeating notification - Flutter](https://stackoverflow.com/questions/66218405/repeating-notification-flutter/66225086#66225086)
 - [Answer by Guillaume Roux for How to add animation to "DropdownButtonFormField" (Flutter)](https://stackoverflow.com/questions/66219720/how-to-add-animation-to-dropdownbuttonformfield-flutter/66224858#66224858)
 - [Answer by Guillaume Roux for Convert an image type to file type flutter](https://stackoverflow.com/questions/66153850/convert-an-image-type-to-file-type-flutter/66154013#66154013)
 - [Answer by Guillaume Roux for How to realize that?](https://stackoverflow.com/questions/66124352/how-to-realize-that/66124783#66124783)
-- [Answer by Guillaume Roux for Restrict change in value of valueNotifier.value](https://stackoverflow.com/questions/66123911/restrict-change-in-value-of-valuenotifier-value/66124063#66124063)
 <!-- STACKOVERFLOW:END -->
