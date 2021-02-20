@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Flutter how to call data from function without hit apis again and again](https://stackoverflow.com/questions/66245633/flutter-how-to-call-data-from-function-without-hit-apis-again-and-again/66294712#66294712)
 - [Answer by Guillaume Roux for Any way to have strongly typed use of Navigator?](https://stackoverflow.com/questions/66281395/any-way-to-have-strongly-typed-use-of-navigator/66281898#66281898)
 - [Answer by Guillaume Roux for How custom json data can be generated in Dart?](https://stackoverflow.com/questions/66278247/how-custom-json-data-can-be-generated-in-dart/66279491#66279491)
 - [Answer by Guillaume Roux for flutter application to control mobile theme](https://stackoverflow.com/questions/66246751/flutter-application-to-control-mobile-theme/66261864#66261864)
 - [Answer by Guillaume Roux for Flutter - Gradient color FloatingActionButton](https://stackoverflow.com/questions/66241127/flutter-gradient-color-floatingactionbutton/66250584#66250584)
-- [Answer by Guillaume Roux for Unable to edit properties of an object passed to a new screen in flutter](https://stackoverflow.com/questions/66247688/unable-to-edit-properties-of-an-object-passed-to-a-new-screen-in-flutter/66249755#66249755)
 <!-- STACKOVERFLOW:END -->
