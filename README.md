@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Flutter: Show Modal Bottom Sheet over/replacing Bottom Navigation Bar (without barrier)](https://stackoverflow.com/questions/66383662/flutter-show-modal-bottom-sheet-over-replacing-bottom-navigation-bar-without-b/66385782#66385782)
 - [Answer by Guillaume Roux for How to format DateTime in Flutter? Remove milliseconds in DateTime?](https://stackoverflow.com/questions/66349547/how-to-format-datetime-in-flutter-remove-milliseconds-in-datetime/66350442#66350442)
 - [Answer by Guillaume Roux for How to get user information from Twitter in flutter application?](https://stackoverflow.com/questions/66345976/how-to-get-user-information-from-twitter-in-flutter-application/66347775#66347775)
 - [Answer by Guillaume Roux for Flutter apply condition on text widget if data isnt available](https://stackoverflow.com/questions/66347424/flutter-apply-condition-on-text-widget-if-data-isnt-available/66347587#66347587)
 - [Answer by Guillaume Roux for Flutter how to call data from function without hit apis again and again](https://stackoverflow.com/questions/66245633/flutter-how-to-call-data-from-function-without-hit-apis-again-and-again/66294712#66294712)
-- [Answer by Guillaume Roux for Any way to have strongly typed use of Navigator?](https://stackoverflow.com/questions/66281395/any-way-to-have-strongly-typed-use-of-navigator/66281898#66281898)
 <!-- STACKOVERFLOW:END -->
