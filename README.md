@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Flutter How can we convert Uint8List image to .jpg / .png?](https://stackoverflow.com/questions/66463576/flutter-how-can-we-convert-uint8list-image-to-jpg-png/66466047#66466047)
+- [Answer by Guillaume Roux for Flutter Downgrade from Version 2.0.0 (version solving failed)](https://stackoverflow.com/questions/66464222/flutter-downgrade-from-version-2-0-0-version-solving-failed/66465975#66465975)
 - [Answer by Guillaume Roux for View Flutter web on mobile](https://stackoverflow.com/questions/66462851/view-flutter-web-on-mobile/66465824#66465824)
 - [Answer by Guillaume Roux for shape to image in clipper flutter](https://stackoverflow.com/questions/66457058/shape-to-image-in-clipper-flutter/66459387#66459387)
 - [Answer by Guillaume Roux for How to import platform specific file in flutter?](https://stackoverflow.com/questions/66423133/how-to-import-platform-specific-file-in-flutter/66423486#66423486)
-- [Answer by Guillaume Roux for Flutter: Show Modal Bottom Sheet over/replacing Bottom Navigation Bar (without barrier)](https://stackoverflow.com/questions/66383662/flutter-show-modal-bottom-sheet-over-replacing-bottom-navigation-bar-without-b/66385782#66385782)
-- [Answer by Guillaume Roux for How to format DateTime in Flutter? Remove milliseconds in DateTime?](https://stackoverflow.com/questions/66349547/how-to-format-datetime-in-flutter-remove-milliseconds-in-datetime/66350442#66350442)
 <!-- STACKOVERFLOW:END -->
