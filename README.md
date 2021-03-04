@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for I can not assign URL link to http.get()](https://stackoverflow.com/questions/66471436/i-can-not-assign-url-link-to-http-get/66471974#66471974)
 - [Answer by Guillaume Roux for Flutter How can we convert Uint8List image to .jpg / .png?](https://stackoverflow.com/questions/66463576/flutter-how-can-we-convert-uint8list-image-to-jpg-png/66466047#66466047)
 - [Answer by Guillaume Roux for Flutter Downgrade from Version 2.0.0 (version solving failed)](https://stackoverflow.com/questions/66464222/flutter-downgrade-from-version-2-0-0-version-solving-failed/66465975#66465975)
 - [Answer by Guillaume Roux for View Flutter web on mobile](https://stackoverflow.com/questions/66462851/view-flutter-web-on-mobile/66465824#66465824)
 - [Answer by Guillaume Roux for shape to image in clipper flutter](https://stackoverflow.com/questions/66457058/shape-to-image-in-clipper-flutter/66459387#66459387)
-- [Answer by Guillaume Roux for How to import platform specific file in flutter?](https://stackoverflow.com/questions/66423133/how-to-import-platform-specific-file-in-flutter/66423486#66423486)
 <!-- STACKOVERFLOW:END -->
