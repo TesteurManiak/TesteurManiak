@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for getLibraryDirectory not working for desktop app](https://stackoverflow.com/questions/66495562/getlibrarydirectory-not-working-for-desktop-app/66496440#66496440)
 - [Answer by Guillaume Roux for Why can't I put a string in the http.post method after update http package in flutter](https://stackoverflow.com/questions/66490602/why-cant-i-put-a-string-in-the-http-post-method-after-update-http-package-in-fl/66490660#66490660)
 - [Answer by Guillaume Roux for "flutter on the web" Only the image is displayed in the title of the appbar, but the browser tab is annoying](https://stackoverflow.com/questions/66467194/flutter-on-the-web-only-the-image-is-displayed-in-the-title-of-the-appbar-but/66473255#66473255)
 - [Answer by Guillaume Roux for I can not assign URL link to http.get()](https://stackoverflow.com/questions/66471436/i-can-not-assign-url-link-to-http-get/66471974#66471974)
 - [Answer by Guillaume Roux for Flutter How can we convert Uint8List image to .jpg / .png?](https://stackoverflow.com/questions/66463576/flutter-how-can-we-convert-uint8list-image-to-jpg-png/66466047#66466047)
-- [Answer by Guillaume Roux for Flutter Downgrade from Version 2.0.0 (version solving failed)](https://stackoverflow.com/questions/66464222/flutter-downgrade-from-version-2-0-0-version-solving-failed/66465975#66465975)
 <!-- STACKOVERFLOW:END -->
