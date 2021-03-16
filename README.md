@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Flutter: Ternary Condition is not working](https://stackoverflow.com/questions/66654610/flutter-ternary-condition-is-not-working/66654944#66654944)
 - [Answer by Guillaume Roux for passing arguments in pushreplacement named flutter](https://stackoverflow.com/questions/66654171/passing-arguments-in-pushreplacement-named-flutter/66654331#66654331)
 - [Answer by Guillaume Roux for How to filter Future List in Flutter?](https://stackoverflow.com/questions/66647284/how-to-filter-future-list-in-flutter/66647382#66647382)
 - [Answer by Guillaume Roux for generate qrcode with data and encrypted with key](https://stackoverflow.com/questions/66646206/generate-qrcode-with-data-and-encrypted-with-key/66646305#66646305)
 - [Answer by Guillaume Roux for Flutter: use flutter 2 without migrating into null safety](https://stackoverflow.com/questions/66634045/flutter-use-flutter-2-without-migrating-into-null-safety/66634359#66634359)
-- [Answer by Guillaume Roux for flutter downgrade error - There is no previously recorded version for channel](https://stackoverflow.com/questions/66545480/flutter-downgrade-error-there-is-no-previously-recorded-version-for-channel/66546307#66546307)
 <!-- STACKOVERFLOW:END -->
