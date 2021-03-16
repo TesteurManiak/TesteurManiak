@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for How to filter Future List in Flutter?](https://stackoverflow.com/questions/66647284/how-to-filter-future-list-in-flutter/66647382#66647382)
 - [Answer by Guillaume Roux for generate qrcode with data and encrypted with key](https://stackoverflow.com/questions/66646206/generate-qrcode-with-data-and-encrypted-with-key/66646305#66646305)
 - [Answer by Guillaume Roux for Flutter: use flutter 2 without migrating into null safety](https://stackoverflow.com/questions/66634045/flutter-use-flutter-2-without-migrating-into-null-safety/66634359#66634359)
 - [Answer by Guillaume Roux for flutter downgrade error - There is no previously recorded version for channel](https://stackoverflow.com/questions/66545480/flutter-downgrade-error-there-is-no-previously-recorded-version-for-channel/66546307#66546307)
 - [Answer by Guillaume Roux for how to preface flutter web app with loading spinner?](https://stackoverflow.com/questions/66534965/how-to-preface-flutter-web-app-with-loading-spinner/66535945#66535945)
-- [Answer by Guillaume Roux for Encode Map with Enum to JSON](https://stackoverflow.com/questions/66529944/encode-map-with-enum-to-json/66533952#66533952)
 <!-- STACKOVERFLOW:END -->
