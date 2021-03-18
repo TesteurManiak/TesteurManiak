@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for How to create Linear Gradient in App Bar Flutter?](https://stackoverflow.com/questions/66688442/how-to-create-linear-gradient-in-app-bar-flutter/66691100#66691100)
 - [Answer by Guillaume Roux for I want to stop video player before navigation](https://stackoverflow.com/questions/66669869/i-want-to-stop-video-player-before-navigation/66670710#66670710)
 - [Answer by Guillaume Roux for Flutter: Ternary Condition is not working](https://stackoverflow.com/questions/66654610/flutter-ternary-condition-is-not-working/66654944#66654944)
 - [Answer by Guillaume Roux for passing arguments in pushreplacement named flutter](https://stackoverflow.com/questions/66654171/passing-arguments-in-pushreplacement-named-flutter/66654331#66654331)
 - [Answer by Guillaume Roux for How to filter Future List in Flutter?](https://stackoverflow.com/questions/66647284/how-to-filter-future-list-in-flutter/66647382#66647382)
-- [Answer by Guillaume Roux for generate qrcode with data and encrypted with key](https://stackoverflow.com/questions/66646206/generate-qrcode-with-data-and-encrypted-with-key/66646305#66646305)
 <!-- STACKOVERFLOW:END -->
