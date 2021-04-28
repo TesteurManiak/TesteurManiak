@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for In flutter: the necessary "required" keyword when extracting a widget](https://stackoverflow.com/questions/67302149/in-flutter-the-necessary-required-keyword-when-extracting-a-widget/67304182#67304182)
 - [Answer by Guillaume Roux for Parse complex JSON into List Flutter](https://stackoverflow.com/questions/67275804/parse-complex-json-into-list-flutter/67288491#67288491)
 - [Answer by Guillaume Roux for How to remove a "List of items" from a list?](https://stackoverflow.com/questions/67255981/how-to-remove-a-list-of-items-from-a-list/67256017#67256017)
 - [Answer by Guillaume Roux for Flutter create widget based on figma to code plugin](https://stackoverflow.com/questions/67236804/flutter-create-widget-based-on-figma-to-code-plugin/67237482#67237482)
 - [Answer by Guillaume Roux for flutter type cast to List<Map<String, String>>](https://stackoverflow.com/questions/67131312/flutter-type-cast-to-listmapstring-string/67131431#67131431)
-- [Answer by Guillaume Roux for How to open drawer with iconbutton in Flutter?](https://stackoverflow.com/questions/67075563/how-to-open-drawer-with-iconbutton-in-flutter/67077082#67077082)
 <!-- STACKOVERFLOW:END -->
