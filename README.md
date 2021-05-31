@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Convert a Hexadecimal to Binary values](https://stackoverflow.com/questions/67770429/convert-a-hexadecimal-to-binary-values/67770665#67770665)
 - [Answer by Guillaume Roux for What's the use of PreferredSize widget after null safety?](https://stackoverflow.com/questions/67750729/whats-the-use-of-preferredsize-widget-after-null-safety/67751518#67751518)
 - [Answer by Guillaume Roux for How To Display a Random Item of a List? [Every 9 seconds]](https://stackoverflow.com/questions/67620764/how-to-display-a-random-item-of-a-list-every-9-seconds/67622217#67622217)
 - [Answer by Guillaume Roux for classes and methods in Dart](https://stackoverflow.com/questions/67586279/classes-and-methods-in-dart/67586476#67586476)
 - [Answer by Guillaume Roux for Is it possible to screenshot a widgetTest?](https://stackoverflow.com/questions/67491247/is-it-possible-to-screenshot-a-widgettest/67500087#67500087)
-- [Answer by Guillaume Roux for how to set box shadow in flutter](https://stackoverflow.com/questions/67427197/how-to-set-box-shadow-in-flutter/67427266#67427266)
 <!-- STACKOVERFLOW:END -->
