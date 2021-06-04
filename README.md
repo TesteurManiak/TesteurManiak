@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Flutter localization in `Drawer` leads to `Null check operator used on a null value` error](https://stackoverflow.com/questions/67723331/flutter-localization-in-drawer-leads-to-null-check-operator-used-on-a-null-va/67842627#67842627)
 - [Answer by Guillaume Roux for call onGenerateRoute function without arguments](https://stackoverflow.com/questions/67829449/call-ongenerateroute-function-without-arguments/67829543#67829543)
 - [Answer by Guillaume Roux for Firestore check if cache data exists in flutter](https://stackoverflow.com/questions/67818489/firestore-check-if-cache-data-exists-in-flutter/67826848#67826848)
 - [Answer by Guillaume Roux for Convert a Hexadecimal to Binary values](https://stackoverflow.com/questions/67770429/convert-a-hexadecimal-to-binary-values/67770665#67770665)
 - [Answer by Guillaume Roux for What's the use of PreferredSize widget after null safety?](https://stackoverflow.com/questions/67750729/whats-the-use-of-preferredsize-widget-after-null-safety/67751518#67751518)
-- [Answer by Guillaume Roux for How To Display a Random Item of a List? [Every 9 seconds]](https://stackoverflow.com/questions/67620764/how-to-display-a-random-item-of-a-list-every-9-seconds/67622217#67622217)
 <!-- STACKOVERFLOW:END -->
