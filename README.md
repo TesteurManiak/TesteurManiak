@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Zoom changed listener](https://stackoverflow.com/questions/67968181/zoom-changed-listener/67977440#67977440)
 - [Answer by Guillaume Roux for How to check font text on Flutter golden test](https://stackoverflow.com/questions/59104547/how-to-check-font-text-on-flutter-golden-test/67957359#67957359)
 - [Answer by Guillaume Roux for Why is the column taking full width of it's parent (Container)](https://stackoverflow.com/questions/67939532/why-is-the-column-taking-full-width-of-its-parent-container/67947468#67947468)
 - [Answer by Guillaume Roux for Flutter : How to set 2 different styles for text button in both light and dark mode](https://stackoverflow.com/questions/67920858/flutter-how-to-set-2-different-styles-for-text-button-in-both-light-and-dark-m/67921401#67921401)
 - [Answer by Guillaume Roux for PageView animateToPage on mouse scroll event in Flutter web](https://stackoverflow.com/questions/67858193/pageview-animatetopage-on-mouse-scroll-event-in-flutter-web/67873569#67873569)
-- [Answer by Guillaume Roux for how to import contacts into my flutter sms sender app?](https://stackoverflow.com/questions/67870355/how-to-import-contacts-into-my-flutter-sms-sender-app/67873022#67873022)
 <!-- STACKOVERFLOW:END -->
