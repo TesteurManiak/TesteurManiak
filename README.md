@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Appbar with blur and padding from all side in flutter](https://stackoverflow.com/questions/68080789/appbar-with-blur-and-padding-from-all-side-in-flutter/68091378#68091378)
 - [Answer by Guillaume Roux for how to create a gradient color in elevated button in flutter?](https://stackoverflow.com/questions/68082716/how-to-create-a-gradient-color-in-elevated-button-in-flutter/68091133#68091133)
 - [Answer by Guillaume Roux for Flutter web upload file cancel event](https://stackoverflow.com/questions/65205877/flutter-web-upload-file-cancel-event/67986662#67986662)
 - [Answer by Guillaume Roux for How to listen("close" event) to the file download window in flutter web?](https://stackoverflow.com/questions/63361478/how-to-listenclose-event-to-the-file-download-window-in-flutter-web/67986103#67986103)
 - [Answer by Guillaume Roux for Zoom changed listener](https://stackoverflow.com/questions/67968181/zoom-changed-listener/67977440#67977440)
-- [Answer by Guillaume Roux for How to check font text on Flutter golden test](https://stackoverflow.com/questions/59104547/how-to-check-font-text-on-flutter-golden-test/67957359#67957359)
 <!-- STACKOVERFLOW:END -->
