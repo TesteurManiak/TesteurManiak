@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for dart - How can I resolve 'The argument type 'Null' can't be assigned to the parameter type 'MyUser'.'](https://stackoverflow.com/questions/68127499/dart-how-can-i-resolve-the-argument-type-null-cant-be-assigned-to-the-para/68127702#68127702)
 - [Answer by Guillaume Roux for Perform in app force update using current and required build numbers](https://stackoverflow.com/questions/68098806/perform-in-app-force-update-using-current-and-required-build-numbers/68099110#68099110)
 - [Answer by Guillaume Roux for Appbar with blur and padding from all side in flutter](https://stackoverflow.com/questions/68080789/appbar-with-blur-and-padding-from-all-side-in-flutter/68091378#68091378)
 - [Answer by Guillaume Roux for how to create a gradient color in elevated button in flutter?](https://stackoverflow.com/questions/68082716/how-to-create-a-gradient-color-in-elevated-button-in-flutter/68091133#68091133)
 - [Answer by Guillaume Roux for Flutter web upload file cancel event](https://stackoverflow.com/questions/65205877/flutter-web-upload-file-cancel-event/67986662#67986662)
-- [Answer by Guillaume Roux for How to listen("close" event) to the file download window in flutter web?](https://stackoverflow.com/questions/63361478/how-to-listenclose-event-to-the-file-download-window-in-flutter-web/67986103#67986103)
 <!-- STACKOVERFLOW:END -->
