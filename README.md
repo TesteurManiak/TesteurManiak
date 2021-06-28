@@ -37,9 +37,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Looping through Firestore is ignoring async await?](https://stackoverflow.com/questions/68158536/looping-through-firestore-is-ignoring-async-await/68158896#68158896)
 - [Answer by Guillaume Roux for How to convert Linear Gradient from Figma to Flutter/Dart code](https://stackoverflow.com/questions/68132938/how-to-convert-linear-gradient-from-figma-to-flutter-dart-code/68133530#68133530)
 - [Answer by Guillaume Roux for dart - How can I resolve 'The argument type 'Null' can't be assigned to the parameter type 'MyUser'.'](https://stackoverflow.com/questions/68127499/dart-how-can-i-resolve-the-argument-type-null-cant-be-assigned-to-the-para/68127702#68127702)
 - [Answer by Guillaume Roux for Perform in app force update using current and required build numbers](https://stackoverflow.com/questions/68098806/perform-in-app-force-update-using-current-and-required-build-numbers/68099110#68099110)
 - [Answer by Guillaume Roux for Appbar with blur and padding from all side in flutter](https://stackoverflow.com/questions/68080789/appbar-with-blur-and-padding-from-all-side-in-flutter/68091378#68091378)
-- [Answer by Guillaume Roux for how to create a gradient color in elevated button in flutter?](https://stackoverflow.com/questions/68082716/how-to-create-a-gradient-color-in-elevated-button-in-flutter/68091133#68091133)
 <!-- STACKOVERFLOW:END -->
