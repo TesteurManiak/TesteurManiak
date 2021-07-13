@@ -36,9 +36,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Is there a way in Flutter to show the list of installed apps to open a file with that works in IOS/Android?](https://stackoverflow.com/questions/68354655/is-there-a-way-in-flutter-to-show-the-list-of-installed-apps-to-open-a-file-with/68358699#68358699)
 - [Answer by Guillaume Roux for Is there any way to dynamically call a static method](https://stackoverflow.com/questions/68223001/is-there-any-way-to-dynamically-call-a-static-method/68225610#68225610)
 - [Answer by Guillaume Roux for Is it possible to feed a model name into a Future as a variable or use a callback in a Future in Flutter?](https://stackoverflow.com/questions/68188426/is-it-possible-to-feed-a-model-name-into-a-future-as-a-variable-or-use-a-callbac/68190107#68190107)
 - [Answer by Guillaume Roux for Is instance property of Firebase a function?](https://stackoverflow.com/questions/68165567/is-instance-property-of-firebase-a-function/68165807#68165807)
 - [Answer by Guillaume Roux for Firebase.initializeApp() -- How do I know that this requires an await async functionality?](https://stackoverflow.com/questions/68163267/firebase-initializeapp-how-do-i-know-that-this-requires-an-await-async-func/68163353#68163353)
-- [Answer by Guillaume Roux for How to Sort List based on custom Date Dart](https://stackoverflow.com/questions/68157353/how-to-sort-list-based-on-custom-date-dart/68159541#68159541)
 <!-- STACKOVERFLOW:END -->
