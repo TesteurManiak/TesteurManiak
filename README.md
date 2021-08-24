@@ -36,9 +36,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for How can I have an animated SliverAppBar like this?](https://stackoverflow.com/questions/68903417/how-can-i-have-an-animated-sliverappbar-like-this/68906602#68906602)
 - [Answer by Guillaume Roux for Flutter loading indicator before showDialog](https://stackoverflow.com/questions/68741828/flutter-loading-indicator-before-showdialog/68742567#68742567)
 - [Answer by Guillaume Roux for Flutter BoxShadow overlapping siblings](https://stackoverflow.com/questions/68663090/flutter-boxshadow-overlapping-siblings/68666086#68666086)
 - [Answer by Guillaume Roux for Is there a way in Flutter to show the list of installed apps to open a file with that works in IOS/Android?](https://stackoverflow.com/questions/68354655/is-there-a-way-in-flutter-to-show-the-list-of-installed-apps-to-open-a-file-with/68358699#68358699)
 - [Answer by Guillaume Roux for Is there any way to dynamically call a static method](https://stackoverflow.com/questions/68223001/is-there-any-way-to-dynamically-call-a-static-method/68225610#68225610)
-- [Answer by Guillaume Roux for Is it possible to feed a model name into a Future as a variable or use a callback in a Future in Flutter?](https://stackoverflow.com/questions/68188426/is-it-possible-to-feed-a-model-name-into-a-future-as-a-variable-or-use-a-callbac/68190107#68190107)
 <!-- STACKOVERFLOW:END -->
