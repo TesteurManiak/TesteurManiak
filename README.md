@@ -36,9 +36,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Material Banner in flutter 2.5](https://stackoverflow.com/questions/69109122/material-banner-in-flutter-2-5/69109242#69109242)
 - [Answer by Guillaume Roux for Detect enter the page event Flutter](https://stackoverflow.com/questions/69098347/detect-enter-the-page-event-flutter/69104599#69104599)
 - [Answer by Guillaume Roux for Turn flutter widgets to grayscale](https://stackoverflow.com/questions/69098827/turn-flutter-widgets-to-grayscale/69103816#69103816)
 - [Answer by Guillaume Roux for Can Dart conditional imports use names?](https://stackoverflow.com/questions/68991062/can-dart-conditional-imports-use-names/68991214#68991214)
 - [Flutter - BottomNavigationBar throws exception when tapping on hidden labels](https://stackoverflow.com/questions/68936585/flutter-bottomnavigationbar-throws-exception-when-tapping-on-hidden-labels)
-- [Answer by Guillaume Roux for Flutter - BottomNavigationBar throws exception when tapping on hidden labels](https://stackoverflow.com/questions/68936585/flutter-bottomnavigationbar-throws-exception-when-tapping-on-hidden-labels/68936586#68936586)
 <!-- STACKOVERFLOW:END -->
