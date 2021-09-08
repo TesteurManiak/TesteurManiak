@@ -36,9 +36,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Turn flutter widgets to grayscale](https://stackoverflow.com/questions/69098827/turn-flutter-widgets-to-grayscale/69103816#69103816)
 - [Answer by Guillaume Roux for Can Dart conditional imports use names?](https://stackoverflow.com/questions/68991062/can-dart-conditional-imports-use-names/68991214#68991214)
 - [Flutter - BottomNavigationBar throws exception when tapping on hidden labels](https://stackoverflow.com/questions/68936585/flutter-bottomnavigationbar-throws-exception-when-tapping-on-hidden-labels)
 - [Answer by Guillaume Roux for Flutter - BottomNavigationBar throws exception when tapping on hidden labels](https://stackoverflow.com/questions/68936585/flutter-bottomnavigationbar-throws-exception-when-tapping-on-hidden-labels/68936586#68936586)
 - [Answer by Guillaume Roux for How can I have an animated SliverAppBar like this?](https://stackoverflow.com/questions/68903417/how-can-i-have-an-animated-sliverappbar-like-this/68906602#68906602)
-- [Answer by Guillaume Roux for Flutter loading indicator before showDialog](https://stackoverflow.com/questions/68741828/flutter-loading-indicator-before-showdialog/68742567#68742567)
 <!-- STACKOVERFLOW:END -->
