@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for What are the difference between pushReplacement, restorablePushReplacement, pushNamed and restorablePushNamed in flutter?](https://stackoverflow.com/questions/69150416/what-are-the-difference-between-pushreplacement-restorablepushreplacement-push/69151524#69151524)
 - [Answer by Guillaume Roux for What is the difference between CustomPainter and CustomClipper?](https://stackoverflow.com/questions/55704331/what-is-the-difference-between-custompainter-and-customclipper/69135838#69135838)
 - [Answer by Guillaume Roux for How to change FlutterLogo color?](https://stackoverflow.com/questions/64094897/how-to-change-flutterlogo-color/69134765#69134765)
 - [Answer by Guillaume Roux for textTheme property not working using Theme widget](https://stackoverflow.com/questions/69019872/texttheme-property-not-working-using-theme-widget/69133908#69133908)
 - [Answer by Guillaume Roux for The argument type 'Object?' can't be assigned to the parameter type List](https://stackoverflow.com/questions/69129445/the-argument-type-object-cant-be-assigned-to-the-parameter-type-list/69129537#69129537)
-- [Answer by Guillaume Roux for Bold text in result set from the text](https://stackoverflow.com/questions/69128357/bold-text-in-result-set-from-the-text/69129443#69129443)
 <!-- STACKOVERFLOW:END -->
