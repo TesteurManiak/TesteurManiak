@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Understand itemBuilder: in AnimatedList (Flutter)](https://stackoverflow.com/questions/69195105/understand-itembuilder-in-animatedlist-flutter/69198321#69198321)
 - [Answer by Guillaume Roux for Parent widget not updating using inheritance](https://stackoverflow.com/questions/69188735/parent-widget-not-updating-using-inheritance/69189156#69189156)
 - [Answer by Guillaume Roux for Validate a non-visible field in Flutter Form](https://stackoverflow.com/questions/69168883/validate-a-non-visible-field-in-flutter-form/69169753#69169753)
 - [Answer by Guillaume Roux for Flutter putting Image.network into Dart isolate](https://stackoverflow.com/questions/69164528/flutter-putting-image-network-into-dart-isolate/69165064#69165064)
 - [Answer by Guillaume Roux for Null-aware .firstWhere, .singleWhere, .lastWhere in Dart's List?](https://stackoverflow.com/questions/69161378/null-aware-firstwhere-singlewhere-lastwhere-in-darts-list/69163333#69163333)
-- [Answer by Guillaume Roux for What is the difference between CustomPainter and CustomClipper?](https://stackoverflow.com/questions/55704331/what-is-the-difference-between-custompainter-and-customclipper/69135838#69135838)
 <!-- STACKOVERFLOW:END -->
