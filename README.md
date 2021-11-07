@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for DropdownButtonFormField reset value](https://stackoverflow.com/questions/69872798/dropdownbuttonformfield-reset-value/69874409#69874409)
 - [Answer by Guillaume Roux for 'Animation<double>?' can't be assigned to a variable of type 'Listenable'](https://stackoverflow.com/questions/69835927/animationdouble-cant-be-assigned-to-a-variable-of-type-listenable/69837621#69837621)
 - [Answer by Guillaume Roux for How to create Hive adapter for XFile class](https://stackoverflow.com/questions/69738596/how-to-create-hive-adapter-for-xfile-class/69739605#69739605)
 - [Answer by Guillaume Roux for Generate HarmonyOS (Huawei) build from Flutter project](https://stackoverflow.com/questions/69733449/generate-harmonyos-huawei-build-from-flutter-project/69736035#69736035)
 - [Answer by Guillaume Roux for How to create a simple unit test in flutter for user input validation and maxLength with null safety](https://stackoverflow.com/questions/69588654/how-to-create-a-simple-unit-test-in-flutter-for-user-input-validation-and-maxlen/69617999#69617999)
-- [Answer by Guillaume Roux for Update appstore and playstore apps to completely different apps](https://stackoverflow.com/questions/69370676/update-appstore-and-playstore-apps-to-completely-different-apps/69379972#69379972)
 <!-- STACKOVERFLOW:END -->
