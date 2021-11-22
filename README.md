@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Use a specific instance of a class inside an isolate](https://stackoverflow.com/questions/70070076/use-a-specific-instance-of-a-class-inside-an-isolate)
 - [Answer by Guillaume Roux for Flutter Dart | How to return different object from class Constructor](https://stackoverflow.com/questions/69941549/flutter-dart-how-to-return-different-object-from-class-constructor/69944946#69944946)
 - [Answer by Guillaume Roux for Flutter open deep link using package](https://stackoverflow.com/questions/69875612/flutter-open-deep-link-using-package/69930441#69930441)
 - [Answer by Guillaume Roux for DropdownButtonFormField reset value to initial](https://stackoverflow.com/questions/69872798/dropdownbuttonformfield-reset-value-to-initial/69874409#69874409)
 - [Answer by Guillaume Roux for &#39;Animation&lt;double&gt;?&#39; can&#39;t be assigned to a variable of type &#39;Listenable&#39;](https://stackoverflow.com/questions/69835927/animationdouble-cant-be-assigned-to-a-variable-of-type-listenable/69837621#69837621)
-- [Answer by Guillaume Roux for How to create Hive adapter for XFile class](https://stackoverflow.com/questions/69738596/how-to-create-hive-adapter-for-xfile-class/69739605#69739605)
 <!-- STACKOVERFLOW:END -->
