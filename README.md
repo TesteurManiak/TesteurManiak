@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Unit tests running in parallel in flutter when using GetIt](https://stackoverflow.com/questions/70098708/unit-tests-running-in-parallel-in-flutter-when-using-getit/70119169#70119169)
 - [Use a specific instance of a class inside an isolate](https://stackoverflow.com/questions/70070076/use-a-specific-instance-of-a-class-inside-an-isolate)
 - [Answer by Guillaume Roux for Flutter Dart | How to return different object from class Constructor](https://stackoverflow.com/questions/69941549/flutter-dart-how-to-return-different-object-from-class-constructor/69944946#69944946)
 - [Answer by Guillaume Roux for Flutter open deep link using package](https://stackoverflow.com/questions/69875612/flutter-open-deep-link-using-package/69930441#69930441)
 - [Answer by Guillaume Roux for DropdownButtonFormField reset value to initial](https://stackoverflow.com/questions/69872798/dropdownbuttonformfield-reset-value-to-initial/69874409#69874409)
-- [Answer by Guillaume Roux for &#39;Animation&lt;double&gt;?&#39; can&#39;t be assigned to a variable of type &#39;Listenable&#39;](https://stackoverflow.com/questions/69835927/animationdouble-cant-be-assigned-to-a-variable-of-type-listenable/69837621#69837621)
 <!-- STACKOVERFLOW:END -->
