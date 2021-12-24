@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for How to handle global things with Clean Architecture in Flutter apps?](https://stackoverflow.com/questions/70463785/how-to-handle-global-things-with-clean-architecture-in-flutter-apps/70469076#70469076)
 - [Answer by Guillaume Roux for Is it possible to create flutter widgets that inherit from other widgets?](https://stackoverflow.com/questions/70468688/is-it-possible-to-create-flutter-widgets-that-inherit-from-other-widgets/70468889#70468889)
 - [Answer by Guillaume Roux for Singleton pattern with uninitialized argument error](https://stackoverflow.com/questions/70460341/singleton-pattern-with-uninitialized-argument-error/70460478#70460478)
 - [Answer by Guillaume Roux for TimeOfDay&#39; is not a subtype of type &#39;DateTime?](https://stackoverflow.com/questions/70280256/timeofday-is-not-a-subtype-of-type-datetime/70280328#70280328)
 - [Answer by Guillaume Roux for Change Background and text color of Time Picker button in Flutter](https://stackoverflow.com/questions/70275340/change-background-and-text-color-of-time-picker-button-in-flutter/70278932#70278932)
-- [Answer by Guillaume Roux for Is there any way to run flutter web app in Internet Explorer?](https://stackoverflow.com/questions/70270839/is-there-any-way-to-run-flutter-web-app-in-internet-explorer/70274654#70274654)
 <!-- STACKOVERFLOW:END -->
