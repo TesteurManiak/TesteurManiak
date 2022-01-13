@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Is there a way in flutter to make an Asset from an Image I got from imagePicker?](https://stackoverflow.com/questions/70679874/is-there-a-way-in-flutter-to-make-an-asset-from-an-image-i-got-from-imagepicker/70697792#70697792)
 - [Answer by Guillaume Roux for Search result returns more than expected objects in flutter](https://stackoverflow.com/questions/70689436/search-result-returns-more-than-expected-objects-in-flutter/70697071#70697071)
 - [Answer by Guillaume Roux for How to use generics in dart。](https://stackoverflow.com/questions/70589790/how-to-use-generics-in-dart/70589949#70589949)
 - [Answer by Guillaume Roux for Flutter hive delete not working in Firebase background Message Handler](https://stackoverflow.com/questions/70541560/flutter-hive-delete-not-working-in-firebase-background-message-handler/70563871#70563871)
 - [Answer by Guillaume Roux for How to handle global things with Clean Architecture in Flutter apps?](https://stackoverflow.com/questions/70463785/how-to-handle-global-things-with-clean-architecture-in-flutter-apps/70469076#70469076)
-- [Answer by Guillaume Roux for Is it possible to create flutter widgets that inherit from other widgets?](https://stackoverflow.com/questions/70468688/is-it-possible-to-create-flutter-widgets-that-inherit-from-other-widgets/70468889#70468889)
 <!-- STACKOVERFLOW:END -->
