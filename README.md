@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Flutter: Instantiate object with multiple parameters](https://stackoverflow.com/questions/70885357/flutter-instantiate-object-with-multiple-parameters/70901872#70901872)
 - [Answer by Guillaume Roux for How to use both the text color and foreground color properties together](https://stackoverflow.com/questions/70874150/how-to-use-both-the-text-color-and-foreground-color-properties-together/70880979#70880979)
 - [Answer by Guillaume Roux for Passing data between screens using the Navigator.pushNamed &lpar;&rpar; function in Flutter](https://stackoverflow.com/questions/70755664/passing-data-between-screens-using-the-navigator-pushnamed-function-in-flutte/70756011#70756011)
 - [Answer by Guillaume Roux for didChangeAppLifecycleState is not working Flutter](https://stackoverflow.com/questions/70754411/didchangeapplifecyclestate-is-not-working-flutter/70755798#70755798)
 - [Answer by Guillaume Roux for Is there a way in flutter to make an Asset from an Image I got from imagePicker?](https://stackoverflow.com/questions/70679874/is-there-a-way-in-flutter-to-make-an-asset-from-an-image-i-got-from-imagepicker/70697792#70697792)
-- [Answer by Guillaume Roux for Search result returns more than expected objects in flutter](https://stackoverflow.com/questions/70689436/search-result-returns-more-than-expected-objects-in-flutter/70697071#70697071)
 <!-- STACKOVERFLOW:END -->
