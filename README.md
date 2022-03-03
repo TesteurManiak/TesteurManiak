@@ -33,9 +33,9 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Is there any performance gain with FlutterIcons instead of using the SVG directly?](https://stackoverflow.com/questions/65628990/is-there-any-performance-gain-with-fluttericons-instead-of-using-the-svg-directl/71336107#71336107)
 - [Answer by Guillaume Roux for why can&#39;t we use BlocProvider.of&lpar;blocContext&rpar; inside of Consumer with bloc attribute? and what is the solution?](https://stackoverflow.com/questions/71071187/why-cant-we-use-blocprovider-ofbloccontext-inside-of-consumer-with-bloc-attri/71093717#71093717)
 - [Answer by Guillaume Roux for how can i disable/enable TextFormField based on a selected value from DropDowButton in flutter?](https://stackoverflow.com/questions/70985686/how-can-i-disable-enable-textformfield-based-on-a-selected-value-from-dropdowbut/70985851#70985851)
 - [Answer by Guillaume Roux for Flutter Map inside a Map when fetching from api](https://stackoverflow.com/questions/70923719/flutter-map-inside-a-map-when-fetching-from-api/70923890#70923890)
 - [Answer by Guillaume Roux for Avoid `print` calls in production code while using flutter](https://stackoverflow.com/questions/70922788/avoid-print-calls-in-production-code-while-using-flutter/70922854#70922854)
-- [Answer by Guillaume Roux for Flutter: Instantiate object with multiple parameters](https://stackoverflow.com/questions/70885357/flutter-instantiate-object-with-multiple-parameters/70901872#70901872)
 <!-- STACKOVERFLOW:END -->
