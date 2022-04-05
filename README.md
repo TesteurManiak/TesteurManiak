@@ -28,11 +28,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Flutter: 2 differents appbars in same page](https://stackoverflow.com/questions/71755568/flutter-2-differents-appbars-in-same-page/71755736#71755736)
 - [Answer by Guillaume Roux for Flutter - How to take an action when the bottom modal sheet is dismissed?](https://stackoverflow.com/questions/71642427/flutter-how-to-take-an-action-when-the-bottom-modal-sheet-is-dismissed/71643479#71643479)
 - [Answer by Guillaume Roux for Why does changing the background color of the navigation bar in Cupertino App change the height?](https://stackoverflow.com/questions/71490932/why-does-changing-the-background-color-of-the-navigation-bar-in-cupertino-app-ch/71493696#71493696)
 - [Answer by Guillaume Roux for Changing the brightness of a specific text widget in flutter](https://stackoverflow.com/questions/69516102/changing-the-brightness-of-a-specific-text-widget-in-flutter/71356599#71356599)
 - [Answer by Guillaume Roux for Is there any performance gain with FlutterIcons instead of using the SVG directly?](https://stackoverflow.com/questions/65628990/is-there-any-performance-gain-with-fluttericons-instead-of-using-the-svg-directl/71336107#71336107)
-- [Answer by Guillaume Roux for why can&#39;t we use BlocProvider.of&lpar;blocContext&rpar; inside of Consumer with bloc attribute? and what is the solution?](https://stackoverflow.com/questions/71071187/why-cant-we-use-blocprovider-ofbloccontext-inside-of-consumer-with-bloc-attri/71093717#71093717)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
