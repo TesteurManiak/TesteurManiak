@@ -28,11 +28,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for transformation between Map to Set](https://stackoverflow.com/questions/71903741/transformation-between-map-to-set/71903896#71903896)
 - [Answer by Guillaume Roux for Create Gradient on Top Right of the page in Flutter](https://stackoverflow.com/questions/71891999/create-gradient-on-top-right-of-the-page-in-flutter/71892707#71892707)
 - [Answer by Guillaume Roux for SliverPersistentHeader without using CustomScrollView](https://stackoverflow.com/questions/71768432/sliverpersistentheader-without-using-customscrollview/71769108#71769108)
 - [Answer by Guillaume Roux for Redirect user to login form if the user is not logged in](https://stackoverflow.com/questions/71753076/redirect-user-to-login-form-if-the-user-is-not-logged-in/71757520#71757520)
 - [Answer by Guillaume Roux for Flutter: 2 differents appbars in same page](https://stackoverflow.com/questions/71755568/flutter-2-differents-appbars-in-same-page/71755736#71755736)
-- [Answer by Guillaume Roux for Flutter - How to take an action when the bottom modal sheet is dismissed?](https://stackoverflow.com/questions/71642427/flutter-how-to-take-an-action-when-the-bottom-modal-sheet-is-dismissed/71643479#71643479)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
