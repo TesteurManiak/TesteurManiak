@@ -28,11 +28,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for The method &#39;when&#39; isn&#39;t defined for the type &#39;Object&#39;](https://stackoverflow.com/questions/72363115/the-method-when-isnt-defined-for-the-type-object/72366371#72366371)
 - [Answer by Guillaume Roux for How to use focus on RichText in flutter?](https://stackoverflow.com/questions/72304516/how-to-use-focus-on-richtext-in-flutter/72307290#72307290)
 - [Answer by Guillaume Roux for Do we need to manually delete the recorded cached video file using ImagePicker flutter plugin?](https://stackoverflow.com/questions/72287825/do-we-need-to-manually-delete-the-recorded-cached-video-file-using-imagepicker-f/72302739#72302739)
 - [Answer by Guillaume Roux for How to make T extends two types?](https://stackoverflow.com/questions/72275196/how-to-make-t-extends-two-types/72275977#72275977)
 - [Answer by Guillaume Roux for How to cast an Object to Map &lpar;without using &#39;as&#39;&rpar;?](https://stackoverflow.com/questions/72274380/how-to-cast-an-object-to-map-without-using-as/72274689#72274689)
-- [Answer by Guillaume Roux for The operator &#39;[]&#39; isn&#39;t defined for the type &#39;Object&#39;. Try defining the operator &#39;[]&#39; streambuilder](https://stackoverflow.com/questions/72269694/the-operator-isnt-defined-for-the-type-object-try-defining-the-operator/72269791#72269791)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
