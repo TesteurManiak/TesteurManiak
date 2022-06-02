@@ -28,11 +28,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Summerize assert in dart constructors](https://stackoverflow.com/questions/72472786/summerize-assert-in-dart-constructors/72473259#72473259)
 - [Answer by Guillaume Roux for The method &#39;when&#39; isn&#39;t defined for the type &#39;Object&#39;](https://stackoverflow.com/questions/72363115/the-method-when-isnt-defined-for-the-type-object/72366371#72366371)
 - [Answer by Guillaume Roux for How to use focus on RichText in flutter?](https://stackoverflow.com/questions/72304516/how-to-use-focus-on-richtext-in-flutter/72307290#72307290)
 - [Answer by Guillaume Roux for Do we need to manually delete the recorded cached video file using ImagePicker flutter plugin?](https://stackoverflow.com/questions/72287825/do-we-need-to-manually-delete-the-recorded-cached-video-file-using-imagepicker-f/72302739#72302739)
 - [Answer by Guillaume Roux for How to make T extends two types?](https://stackoverflow.com/questions/72275196/how-to-make-t-extends-two-types/72275977#72275977)
-- [Answer by Guillaume Roux for How to cast an Object to Map &lpar;without using &#39;as&#39;&rpar;?](https://stackoverflow.com/questions/72274380/how-to-cast-an-object-to-map-without-using-as/72274689#72274689)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
