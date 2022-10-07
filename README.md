@@ -13,11 +13,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for How to make this design in flutter](https://stackoverflow.com/questions/73982508/how-to-make-this-design-in-flutter/73986077#73986077)
 - [Answer by Guillaume Roux for app crash after DateTime.parse &lpar;DateTime.java&rpar; =&gt; Invalid date format . Error thrown null](https://stackoverflow.com/questions/73307555/app-crash-after-datetime-parse-datetime-java-invalid-date-format-error-th/73441580#73441580)
 - [Answer by Guillaume Roux for How to specify test tags correctly in dart_test.yaml?](https://stackoverflow.com/questions/73022762/how-to-specify-test-tags-correctly-in-dart-test-yaml/73023734#73023734)
 - [Answer by Guillaume Roux for Summerize assert in dart constructors](https://stackoverflow.com/questions/72472786/summerize-assert-in-dart-constructors/72473259#72473259)
 - [Answer by Guillaume Roux for The method &#39;when&#39; isn&#39;t defined for the type &#39;Object&#39;](https://stackoverflow.com/questions/72363115/the-method-when-isnt-defined-for-the-type-object/72366371#72366371)
-- [Answer by Guillaume Roux for How to use focus on RichText in flutter?](https://stackoverflow.com/questions/72304516/how-to-use-focus-on-richtext-in-flutter/72307290#72307290)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
