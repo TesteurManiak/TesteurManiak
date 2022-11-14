@@ -13,11 +13,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for How can I speed up the loading speed of my AssetImage?](https://stackoverflow.com/questions/74429626/how-can-i-speed-up-the-loading-speed-of-my-assetimage/74429854#74429854)
 - [Answer by Guillaume Roux for SliverAppbar with Search and button on Scroll](https://stackoverflow.com/questions/73975899/sliverappbar-with-search-and-button-on-scroll/73987215#73987215)
 - [Answer by Guillaume Roux for How to make this design in flutter](https://stackoverflow.com/questions/73982508/how-to-make-this-design-in-flutter/73986077#73986077)
 - [Answer by Guillaume Roux for app crash after DateTime.parse &lpar;DateTime.java&rpar; =&gt; Invalid date format . Error thrown null](https://stackoverflow.com/questions/73307555/app-crash-after-datetime-parse-datetime-java-invalid-date-format-error-th/73441580#73441580)
 - [Answer by Guillaume Roux for How to specify test tags correctly in dart_test.yaml?](https://stackoverflow.com/questions/73022762/how-to-specify-test-tags-correctly-in-dart-test-yaml/73023734#73023734)
-- [Answer by Guillaume Roux for Summerize assert in dart constructors](https://stackoverflow.com/questions/72472786/summerize-assert-in-dart-constructors/72473259#72473259)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
