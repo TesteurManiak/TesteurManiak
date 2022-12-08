@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Guillaume ! 💙</h1>
 <h3 align="center">Your friendly neighborhood Flutter Dev</h3>
 
-<p align="left">
+<p align="center">
  <a>
    <img height="250em" src="https://api.githubtrends.io/user/svg/TesteurManiak/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark" />
   <a href="https://stackoverflow.com/users/9942346/testeur-maniak">
