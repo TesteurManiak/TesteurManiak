@@ -3,7 +3,7 @@
 
 <p align="left">
  <a>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=TesteurManiak&theme=tokyonight" />
+   <img height="250em" src="https://api.githubtrends.io/user/svg/TesteurManiak/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark" />
   <a href="https://stackoverflow.com/users/9942346/testeur-maniak">
    <img height="250em" src="https://github-readme-stackoverflow.vercel.app/?userID=9942346&theme=dark" />
   </a>
