@@ -15,11 +15,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Mock method of class under test in Dart](https://stackoverflow.com/questions/74776404/mock-method-of-class-under-test-in-dart/74777833#74777833)
 - [Answer by Guillaume Roux for How to Make Widget Flutter Fast?](https://stackoverflow.com/questions/74521603/how-to-make-widget-flutter-fast/74522072#74522072)
 - [Answer by Guillaume Roux for why isn&#39;t overriding the equals operator working properly for me?](https://stackoverflow.com/questions/74428083/why-isnt-overriding-the-equals-operator-working-properly-for-me/74430434#74430434)
 - [Answer by Guillaume Roux for How can I speed up the loading speed of my AssetImage?](https://stackoverflow.com/questions/74429626/how-can-i-speed-up-the-loading-speed-of-my-assetimage/74429854#74429854)
 - [Answer by Guillaume Roux for SliverAppbar with Search and button on Scroll](https://stackoverflow.com/questions/73975899/sliverappbar-with-search-and-button-on-scroll/73987215#73987215)
-- [Answer by Guillaume Roux for How to make this design in flutter](https://stackoverflow.com/questions/73982508/how-to-make-this-design-in-flutter/73986077#73986077)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
