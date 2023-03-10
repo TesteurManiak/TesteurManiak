@@ -15,11 +15,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Flutter GoRouter Dynamically Change PageTransition Type with NavigatorObserver](https://stackoverflow.com/questions/75695991/flutter-gorouter-dynamically-change-pagetransition-type-with-navigatorobserver/75697067#75697067)
 - [Answer by Guillaume Roux for ImageFilter.blur&lpar;&rpar; rounded corner in flutter](https://stackoverflow.com/questions/75547749/imagefilter-blur-rounded-corner-in-flutter/75548098#75548098)
 - [Answer by Guillaume Roux for Mock class that implements another class which uses Equatable](https://stackoverflow.com/questions/75131317/mock-class-that-implements-another-class-which-uses-equatable/75140879#75140879)
 - [Answer by Guillaume Roux for Is there any way to implement swipe onboarding screen in flutter with indicators?](https://stackoverflow.com/questions/75133501/is-there-any-way-to-implement-swipe-onboarding-screen-in-flutter-with-indicators/75140760#75140760)
 - [Answer by Guillaume Roux for Mock method of class under test in Dart](https://stackoverflow.com/questions/74776404/mock-method-of-class-under-test-in-dart/74777833#74777833)
-- [Answer by Guillaume Roux for How to Make Widget Flutter Fast?](https://stackoverflow.com/questions/74521603/how-to-make-widget-flutter-fast/74522072#74522072)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
