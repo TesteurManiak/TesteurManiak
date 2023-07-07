@@ -15,11 +15,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for setState&lpar;&rpar; called in constructor: InvestorState#5d7b8&lpar;lifecycle state: created, no widget, not mounted&rpar;](https://stackoverflow.com/questions/76638064/setstate-called-in-constructor-investorstate5d7b8lifecycle-state-created/76638501#76638501)
 - [Answer by Guillaume Roux for Saving flutter localization text in a separate file](https://stackoverflow.com/questions/76611356/saving-flutter-localization-text-in-a-separate-file/76611471#76611471)
 - [Answer by Guillaume Roux for is it possible to give gradient blur effect in Custom paint in Flutter like below picture?](https://stackoverflow.com/questions/70812149/is-it-possible-to-give-gradient-blur-effect-in-custom-paint-in-flutter-like-belo/76574846#76574846)
 - [Answer by Guillaume Roux for How to use late final keyword in Flutter Dart freezed model?](https://stackoverflow.com/questions/76502648/how-to-use-late-final-keyword-in-flutter-dart-freezed-model/76504201#76504201)
 - [Answer by Guillaume Roux for After executing Navigator.pop&lpar;context&rpar; inside onPressed, the remaining lines still gets executed. How?](https://stackoverflow.com/questions/76489281/after-executing-navigator-popcontext-inside-onpressed-the-remaining-lines-sti/76489906#76489906)
-- [Answer by Guillaume Roux for Is it possible to use Dio package but Shared Preferences package for caching?](https://stackoverflow.com/questions/76127993/is-it-possible-to-use-dio-package-but-shared-preferences-package-for-caching/76128961#76128961)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
