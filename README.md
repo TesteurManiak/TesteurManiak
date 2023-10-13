@@ -15,11 +15,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for Is there a way to animate the icon of the ElevatedButton.icon&lpar;&rpar; in flutter?](https://stackoverflow.com/questions/77279588/is-there-a-way-to-animate-the-icon-of-the-elevatedbutton-icon-in-flutter/77286629#77286629)
 - [Answer by Guillaume Roux for Does get_it have a real use with bloc?](https://stackoverflow.com/questions/77284239/does-get-it-have-a-real-use-with-bloc/77286453#77286453)
 - [Answer by Guillaume Roux for MaterialApp.router is not getting rebuilt when using Riverpod StateNotifier to change theme in Flutter, what am I missing?](https://stackoverflow.com/questions/76660272/materialapp-router-is-not-getting-rebuilt-when-using-riverpod-statenotifier-to-c/76660746#76660746)
 - [Answer by Guillaume Roux for setState&lpar;&rpar; called in constructor: InvestorState#5d7b8&lpar;lifecycle state: created, no widget, not mounted&rpar;](https://stackoverflow.com/questions/76638064/setstate-called-in-constructor-investorstate5d7b8lifecycle-state-created/76638501#76638501)
 - [Answer by Guillaume Roux for Saving flutter localization text in a separate file](https://stackoverflow.com/questions/76611356/saving-flutter-localization-text-in-a-separate-file/76611471#76611471)
-- [Answer by Guillaume Roux for is it possible to give gradient blur effect in Custom paint in Flutter like below picture?](https://stackoverflow.com/questions/70812149/is-it-possible-to-give-gradient-blur-effect-in-custom-paint-in-flutter-like-belo/76574846#76574846)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
