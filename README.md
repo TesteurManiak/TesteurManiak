@@ -15,11 +15,11 @@
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guillaume Roux for How to encapsulate an external flutter package within my flutter package, so that the users do not have to install the external package?](https://stackoverflow.com/questions/77472197/how-to-encapsulate-an-external-flutter-package-within-my-flutter-package-so-tha/77472223#77472223)
 - [Answer by Guillaume Roux for How can I set a background color of a CustomScrollView that contains SilverAppBar and SilverList - in flutter?](https://stackoverflow.com/questions/77283529/how-can-i-set-a-background-color-of-a-customscrollview-that-contains-silverappba/77288744#77288744)
 - [Answer by Guillaume Roux for Is there a way to animate the icon of the ElevatedButton.icon&lpar;&rpar; in flutter?](https://stackoverflow.com/questions/77279588/is-there-a-way-to-animate-the-icon-of-the-elevatedbutton-icon-in-flutter/77286629#77286629)
 - [Answer by Guillaume Roux for Does get_it have a real use with bloc?](https://stackoverflow.com/questions/77284239/does-get-it-have-a-real-use-with-bloc/77286453#77286453)
 - [Answer by Guillaume Roux for MaterialApp.router is not getting rebuilt when using Riverpod StateNotifier to change theme in Flutter, what am I missing?](https://stackoverflow.com/questions/76660272/materialapp-router-is-not-getting-rebuilt-when-using-riverpod-statenotifier-to-c/76660746#76660746)
-- [Answer by Guillaume Roux for setState&lpar;&rpar; called in constructor: InvestorState#5d7b8&lpar;lifecycle state: created, no widget, not mounted&rpar;](https://stackoverflow.com/questions/76638064/setstate-called-in-constructor-investorstate5d7b8lifecycle-state-created/76638501#76638501)
 <!-- STACKOVERFLOW:END -->
 
 <h1 align="center">Find me on</h1>
