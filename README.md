@@ -45,7 +45,9 @@
  </a>
 </p>
 
-<p>
+<h1 align="center">Support me</h1>
+
+<p align="center">
  <a href="https://www.buymeacoffee.com/guillaumeroux">
   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png" height="48px"/>
  </a>
