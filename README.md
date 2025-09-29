@@ -12,6 +12,22 @@
  </a>
 </p>
 
+### 🚀 Language & tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
+<br />
+
+#
+
 ### Stack Overflow posts
 
 <!-- STACKOVERFLOW:START -->
@@ -21,6 +37,8 @@
 - [Answer by Guillaume Roux for Does get_it have a real use with bloc?](https://stackoverflow.com/questions/77284239/does-get-it-have-a-real-use-with-bloc/77286453#77286453)
 - [Answer by Guillaume Roux for MaterialApp.router is not getting rebuilt when using Riverpod StateNotifier to change theme in Flutter, what am I missing?](https://stackoverflow.com/questions/76660272/materialapp-router-is-not-getting-rebuilt-when-using-riverpod-statenotifier-to-c/76660746#76660746)
 <!-- STACKOVERFLOW:END -->
+
+#
 
 <h1 align="center">Find me on</h1>
 
